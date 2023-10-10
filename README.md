@@ -120,3 +120,17 @@ Vores hængsel skulle også omdesignes, da selvom hullerne passede, fra vores ti
 at når det hele blev printet sammen, så var der ikke plads til at alle 4 grips kunne sættes på inden de skulle slides ind.
 ##
 
+D. 6 Oktober 2023
+## Hvad har vi lavet i dag og hvorfor?
+I dag skulle der tilføjes lysdioder til vores NodeMCU, så vi kunne få lys elementer til det lythophane vi skulle lave.
+Vi fik sat første test print af vores Lithophane i gang.
+##
+
+D. 10 Oktober 2023
+## Hvad har vi lavet i dag og hvorfor?
+I dag fik vi lodet vores knap og påbegyndt designet så vores knap kunne holdes fast i kassen.
+Formålet med at holde knappen fast er at den skal være trykket ned imens kisten er lukket,
+og åben når kisten åbnes, så der spilles musik og dioderne tændes.
+Flere test print af lithophane blev lavet og kisten blev om designet til at have plads til 2 små breadboards.
+##
+
