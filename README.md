@@ -134,3 +134,14 @@ og åben når kisten åbnes, så der spilles musik og dioderne tændes.
 Flere test print af lithophane blev lavet og kisten blev om designet til at have plads til 2 små breadboards.
 ##
 
+D. 13 Oktober 2023
+## Hvad har vi lavet i dag og hvorfor?
+Sidste dag for projektet og valgfaget.
+Vi fik printet alt færdig mellem d.11 og d.13.
+Dioderne blev opdelt i 2 grupper, så lys outputtet kunne holdes så højt som muligt.
+Knappen blev nu trykket rigtigt ned af låget smooth.
+Alt blev sat sammen og virkede som det skulle.
+##
+
+https://github.com/Zendary/PiratesBuzzer // Elektronik
+https://github.com/malenec/treasureChest // 3D print
