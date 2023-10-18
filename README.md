@@ -1,4 +1,11 @@
 # RobotLogBog
+Logbogen er designet efter at fortælle hvad vi har lavet hver dag i forhold til faget
+Der linkes til Github projektor, hvor koden til hver opgave ligger.
+I folderen "Pictures" ligger der billeder til hvert projekt
+Early/Final Product er til vores skattekiste/spilledåse vi lavede som afsluttende opgave.
+Video filer skal åbnes med et værktøj der understøtter video
+
+
 D. 22 August 2023
 ## Hvad har vi lavet i dag og hvorfor?
 Vi startede med at blive introduceret til en Simpel LED opsætning for vores NodeMCU.
@@ -13,7 +20,6 @@ Som krav skulle den uden brugen af delay kunne sætte et 2-vejs lyskryds op.
 Den første Study points opgave.
 
 https://github.com/Zendary/Lyskryds
-Link inkluderer kode og video af lyskrydset.
 ##
 
 D. 29 August 2023
